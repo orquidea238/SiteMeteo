@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="_x30_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="200px" height="200px" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve">
+<g>
+	<rect x="95.22" y="139.097" fill="#FFB300" width="9.563" height="27.938"/>
+</g>
+<g>
+	<rect x="95.22" y="32.741" fill="#FFB300" width="9.563" height="27.937"/>
+</g>
+<g>
+	<rect x="33.617" y="94.713" fill="#FFB300" width="27.939" height="9.563"/>
+</g>
+<g>
+	<rect x="138.448" y="94.915" fill="#FFB300" width="27.935" height="9.563"/>
+</g>
+<radialGradient id="SVGID_1_" cx="4708.3525" cy="4671.0073" r="97.7108" fx="4645.2681" fy="4604.5469" gradientTransform="matrix(0.324 0 0 0.324 -1425.1737 -1413.3068)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFF4D"/>
+	<stop  offset="0.1841" style="stop-color:#FFF645"/>
+	<stop  offset="0.4844" style="stop-color:#FFDE30"/>
+	<stop  offset="0.8612" style="stop-color:#FFB60E"/>
+	<stop  offset="1" style="stop-color:#FFA600"/>
+</radialGradient>
+<path fill="url(#SVGID_1_)" d="M100.028,67.745c-17.277,0-31.305,14.351-31.305,32.036c0,17.691,14.027,32.032,31.305,32.032
+	c17.248,0,31.251-14.341,31.251-32.032C131.279,82.096,117.276,67.745,100.028,67.745z"/>
+<g>
+	<g>
+		
+			<rect x="131.932" y="48.453" transform="matrix(0.7071 0.7072 -0.7072 0.7071 84.1922 -78.3915)" fill="#FFB300" width="9.563" height="27.94"/>
+	</g>
+	<g>
+		
+			<rect x="57.773" y="122.601" transform="matrix(0.7071 0.7071 -0.7071 0.7071 114.8912 -4.2321)" fill="#FFB300" width="9.563" height="27.938"/>
+	</g>
+	<g>
+		
+			<rect x="48.31" y="57.416" transform="matrix(0.7071 0.7071 -0.7071 0.7071 62.2259 -25.8225)" fill="#FFB300" width="27.942" height="9.563"/>
+	</g>
+	<g>
+		
+			<rect x="123.755" y="132.807" transform="matrix(0.7071 0.7071 -0.7071 0.7071 137.6378 -57.087)" fill="#FFB300" width="27.939" height="9.563"/>
+	</g>
+</g>
+</svg>

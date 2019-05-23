@@ -10,20 +10,24 @@
 <body>
     
     <header>
-        <img class="logo" src="https://s3.amazonaws.com/codecademy-content/courses/intermediate-javascript-requests/wanderlust/logo.svg" alt="logo" />
+        <img class="logo" src="images/weather-app.png" alt="logo" />
     </header>
     
     <main>
-        <h1>Où voulez-vous atterir?</h1>
+        <h1>Quel temps fait-il à...?</h1>
         <form autocomplete="off">
           <input type="text" id="city">
-          <button id="button" type="submit">Valider</button>
+          <button id="button" type="submit">C'est parti!</button>
         </form>
     </main>
 
     <div class="container">
-      <div id="destination">
+      <h2 id="destination">
   
+      </h2>
+
+      <div id="date">
+        
       </div>
 
       <div class="sectiontitle">
@@ -47,21 +51,21 @@
   
     </section>
       
-    <div class="sectiontitle">
-        <h2>TOP ATTRACTIONS</h2>
+    <!-- <div class="sectiontitle">
+        <h2>TOP ACTUS</h2>
     </div>
     
-    <section id="venues">
-        <div class="venue" id="venue1">
+    <section id="actus">
+        <div class="actu" id="actu1">
   
         </div>
-        <div class="venue" id="venue2">
+        <div class="actu" id="actu2">
   
         </div>
-        <div class="venue" id="venue3">
+        <div class="actu" id="actu3">
   
         </div>
-    </section>
+    </section> -->
     
     <footer>
       
@@ -74,5 +78,6 @@
     integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
     crossorigin="anonymous"></script>
     <script src="app.js"></script>
+    <script src="actu.js"></script>
 </body>
 </html>
