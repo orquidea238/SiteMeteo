@@ -4,6 +4,20 @@ body {
     box-sizing: border-box;
 }
 
+// ------------Current
+#meteoCurrent{
+    min-height: 300px;
+    width: 200px;
+    height: 260px;
+    padding: 25px;
+    font-size: 25px;
+    margin-bottom: 3%;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+}
+
+
+// -------------------
+
 .logo {
     padding: 10px;
     height: 70px;
@@ -145,9 +159,7 @@ footer {
 
 // Responsive-------------------------------------
 @media (max-width: 860px) {
-    main {
-      background-color: #27b7c1;
-    }
+    
   
     h1 {
       padding-top: 80px;

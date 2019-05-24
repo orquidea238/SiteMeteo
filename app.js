@@ -47,9 +47,9 @@ const renderForecast = (days) => {
 
 
 const createWeatherHTML = (currentDay) => {
-    return `<h2> Max: ${currentDay.day.maxtemp_c}</h2>
-      <h2> Min: ${currentDay.day.mintemp_c}</h2>
-      <h2> Humidité: ${currentDay.day.avghumidity}</h2>
+    return `<h2> Max: ${currentDay.day.maxtemp_c}c</h2>
+      <h2> Min: ${currentDay.day.mintemp_c}c</h2>
+      <h2> Humidité: ${currentDay.day.avghumidity}%</h2>
       <img src="https://${currentDay.day.condition.icon}" class="weathericon" />
       <h2>${weekDays[(new Date(currentDay.date)).getDay()]}</h2>`;
 }
